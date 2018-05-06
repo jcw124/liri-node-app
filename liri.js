@@ -17,7 +17,6 @@ mytweets();
 }else if  (command === 'spotify-this-song'){
     console.log('spotify-this-song');
 }else if (command === 'movie-this'){
-    console.log('movie-this');
     movie();
 }else if (command === 'do-what-it-says'){
     console.log('do what it says');
